@@ -1,4 +1,4 @@
 # arkademy
 
 Index.php
-![Alt text](relative/gambar/to/Index.jpg?raw=true "Title")
+![alt text](https://github.com/NandaCPT/arkademy/blob/master/gambar/Index.jpg?raw=true)
