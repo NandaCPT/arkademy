@@ -1,4 +1,4 @@
 # arkademy
 
 Index.php
-![Alt text](relative/path/to/Index.jpg?raw=true "Title")
+![Alt text](relative/gambar/to/Index.jpg?raw=true "Title")
