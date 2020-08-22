@@ -1,3 +1,4 @@
 # arkademy
 
-Screenshot di folder gambar
+index.php
+![alt text] (https://github.com/NandaCPT/arkademy/tree/master/gambar/Index.jpg?raw=true)
